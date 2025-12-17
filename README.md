@@ -66,4 +66,4 @@ code .
 4. **Run all cells in the notebook to reproduce the analysis.**
 
 5. **Explore the interactive Tableau dashboard:**
-    You can view and interact with the dashboard here:https://public.tableau.com/authoring/Phase1_tableau/Dashboard1#2
+    You can view and interact with the dashboard here: https://public.tableau.com/authoring/Project_Tableau_17659991069130/Dashboard1#1
