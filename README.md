@@ -1,4 +1,6 @@
 # Phase1-project
+
+
 # Aviation Accidents Analysis
 
 Analyze aviation accident data to identify low-risk aircraft and provide actionable business recommendations.
@@ -36,14 +38,32 @@ Key goals:
 ---
 
 ## Files in This Repository
-- `aviation_cleaned.csv` – Cleaned dataset for analysis  
+- `Aviation_Data.csv` – Raw data  
+- `aviation_cleaned.csv` – Cleaned dataset   
 - `index.ipynb` – Jupyter Notebook with full analysis  
 - `presentation.pdf` – Non-technical slide deck for business stakeholders  
 - `README.md` – Project overview  
 
 ---
 
-## How to Run
-1. Clone the repository:
+## How to Open and Run the Project
+
+Follow these steps to access, run, and explore the Aviation Accidents Analysis project:
+
+1. **Clone the repository** to your local machine:
 ```bash
 git clone <repository-url>
+```
+2. **Navigate to the project folder:**
+```bash
+cd <repository-folder>
+```
+
+3. **Open the Jupyter Notebook:**
+```bash
+code .
+```
+4. **Run all cells in the notebook to reproduce the analysis.**
+
+5. **Explore the interactive Tableau dashboard:**
+    You can view and interact with the dashboard here:https://public.tableau.com/authoring/Phase1_tableau/Dashboard1#2
