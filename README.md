@@ -83,5 +83,5 @@ code .
 4. **Run all cells in the notebook to reproduce the analysis.**
 
 5. **Explore the interactive Tableau dashboard:**
-    You can view and interact with the dashboard here: 
-    https://public.tableau.com/app/profile/alan.muchiri/viz/Project_Tableau_17659991069130/Dashboard1
+    You can view and interact with the dashboard here:
+    [***Interactive Dashboard***](https://public.tableau.com/app/profile/alan.muchiri/viz/Project_Tableau_17659991069130/Dashboard1)
